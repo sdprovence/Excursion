@@ -4,9 +4,10 @@ body {
   background-color: black;
   color: white;
 }
-
+/* Main Header weight set to normal */
 h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
